@@ -1,8 +1,6 @@
 # COVID-19 Tracker
 ![COVID-19 Tracker](https://i.ibb.co/X87BqVY/Screenshot-2020-04-13-at-10-14-58.png)
 
-### [Live Site](https://covid19statswebsite.netlify.com/)
-
 ## Summary
 COVID-19 Tracker is a web application which keeps track of the cover-19 cases all around the globe. It keeps track of infected, recovered and deaths.
 
